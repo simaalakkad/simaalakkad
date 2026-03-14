@@ -1,7 +1,8 @@
 # Hi there! 👋
 
-I'm Sima.  
-🌱 I'm currently a software engineering student  
+I'm Sima.
+
+🌱 I'm currently a software engineering student attending Istanbul Gelişim University
 
 🔭 I'm working on iguGH2025 
 
@@ -15,7 +16,6 @@ I'm Sima.
 ---
 
    
-
 
 ## 📫 Connect with Me
 [LinkedIn] https://www.linkedin.com/in/sima-alakkad-00b7412b4/ 
