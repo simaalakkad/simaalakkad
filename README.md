@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**simaalakkad/simaalakkad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sima.  
+🌱 I'm currently a software engineering student
+🔭 I'm working on iguGH2025 
+🤔 I'm looking for help with: Cybersecurity 
+📫 How to reach me (via e-mail): simaalakkad206@gmail.com
+⚡ Fun fact: Polyglot in progress! 🌍 I love learning new languages and connecting with people worldwide.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📫 Connect with Me
+[LinkedIn] https://www.linkedin.com/in/sima-alakkad-00b7412b4/ 
